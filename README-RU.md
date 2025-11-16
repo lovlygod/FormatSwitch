@@ -101,8 +101,7 @@ FormatSwitch/
  ├── .gitignore                # Правила игнорирования для Git
  ├── PROJECT_INFO.md           # Информация о проекте
  ├── TESTING_GUIDE.md          # Руководство по тестированию
- ├── FormatSwitch.png          # Логотип проекта
- └── test_all_features.py      # Скрипт тестирования функций
+ └── FormatSwitch.png          # Логотип проекта
 ```
 
 

@@ -101,8 +101,7 @@ FormatSwitch/
  ├── .gitignore                # Git ignore rules
  ├── PROJECT_INFO.md           # Project information
  ├── TESTING_GUIDE.md          # Testing guide
- ├── FormatSwitch.png          # Project logo
- └── test_all_features.py      # Feature testing script
+ └── FormatSwitch.png          # Project logo
 ```
 
 
