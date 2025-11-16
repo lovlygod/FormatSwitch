@@ -1,7 +1,7 @@
 # 🔄 FormatSwitch
 
 <p align="center">
-  <img src="FormatSwitch.png" alt="FormatSwitch Logo" width="200"/>
+  <img src="FormatSwitch.svg" alt="FormatSwitch Logo" width="200"/>
 </p>
 
 **Универсальный конвертер файлов**
