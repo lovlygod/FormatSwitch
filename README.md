@@ -86,18 +86,25 @@ csv_to_json("input.csv", "output.json")
 - Saves result to specified file
 
 ---
-
 ## 📁 Project Structure
 
 ```bash
 FormatSwitch/
- ├── format_converter.py     # Core conversion module
- ├── gui_converter.py        # Graphical interface
- ├── create_installer.py     # Windows installer creation
- ├── create_linux_package.py # Linux package creation
- ├── requirements.txt        # Dependencies
- └── README.md               # Documentation
+ ├── format_converter.py       # Core conversion module
+ ├── gui_converter.py          # Graphical interface
+ ├── create_installer.py       # Windows installer creation
+ ├── create_linux_package.py   # Linux package creation
+ ├── requirements.txt          # Dependencies
+ ├── README.md                 # Documentation (English)
+ ├── README-RU.md              # Documentation (Russian)
+ ├── LICENSE                   # License information
+ ├── .gitignore                # Git ignore rules
+ ├── PROJECT_INFO.md           # Project information
+ ├── TESTING_GUIDE.md          # Testing guide
+ ├── FormatSwitch.png          # Project logo
+ └── test_all_features.py      # Feature testing script
 ```
+
 
 ---
 
